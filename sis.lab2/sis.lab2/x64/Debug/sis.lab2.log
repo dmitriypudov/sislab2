@@ -1,0 +1,61 @@
+﻿  sis.lab2.cpp
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(8,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(10,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "N"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(10,9): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(12,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(12,16): error C3192: синтаксическая ошибка: "^" не является префиксным оператором (возможно, имелось в виду "*"?)
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(12,18): error C2065: ebx: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(13,9): error C2065: mov: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(13,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(13,13): error C2065: ecx: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(14,9): error C2065: mov: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(14,13): error C2065: esi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(16,9): error C2065: mov: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(16,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edi"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(16,13): error C2065: edi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(16,22): error C2065: esi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(17,9): error C2065: cmp: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(17,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edi"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(17,13): error C2065: edi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(17,22): error C2065: esi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(18,9): error C2065: jg: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(18,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Swap"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(18,12): error C2065: Swap: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(19,9): error C2065: add: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(19,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(19,13): error C2065: esi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(20,9): error C2065: loop: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(20,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "LoobIn"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(20,14): error C2065: LoobIn: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(21,9): error C2065: jmp: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(21,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Check"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(21,13): error C2065: Check: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(23,9): error C2065: mov: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(23,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(23,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(23,22): error C2065: esi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(24,9): error C2065: mov: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(24,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Arr"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(24,17): error C2065: esi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(24,27): error C2065: edi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(25,9): error C2065: mov: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(25,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Arr"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(25,17): error C2065: esi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(25,23): error C2065: ebx: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(26,9): error C2065: add: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(26,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(26,13): error C2065: esi: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(27,9): error C2065: loop: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(27,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "LoobIn"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(27,14): error C2065: LoobIn: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(29,9): error C2065: cmp: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(29,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(29,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(30,9): error C2065: je: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(30,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Exit"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(30,12): error C2065: Exit: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(31,9): error C2065: jmp: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(31,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "LoopEnd"
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(31,13): error C2065: LoopEnd: необъявленный идентификатор
+C:\Users\ЧЕЙСИЛА\source\repos\sis.lab2\sis.lab2\sis.lab2.cpp(34,5): error C2059: синтаксическая ошибка: }
